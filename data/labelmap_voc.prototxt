@@ -1,0 +1,46 @@
+item {
+  name: "none_of_the_above"
+  label: 0
+  display_name: "background"
+}
+item {
+  name: "tm_jhs"
+  label: 1
+  display_name: "tm_jhs"
+}
+item {
+  name: "tm_cat"
+  label: 2
+  display_name: "tm_cat"
+}
+item {
+  name: "tm_gwq"
+  label: 3
+  display_name: "tm_gwq"
+}
+item {
+  name: "tm_wzlogo_c"
+  label: 4
+  display_name: "tm_wzlogo_c"
+}
+item {
+  name: "tb_wzlogo_c"
+  label: 5
+  display_name: "tb_wzlogo_c"
+}
+item {
+  name: "tm_11_11"
+  label: 6
+  display_name: "tm_11_11"
+}
+item {
+  name: "tm_wzlogo_e"
+  label: 7
+  display_name: "tm_wzlogo_e"
+}
+item {
+  name: "tb_wzlogo_e"
+  label: 8
+  display_name: "tb_wzlogo_e"
+}
+
